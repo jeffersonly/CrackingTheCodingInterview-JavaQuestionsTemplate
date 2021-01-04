@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch URLify",
+            "request": "launch",
+            "mainClass": "URLify",
+            "projectName": "CrackingTheCodingInterview-JavaQuestionsTemplate_1a412de1"
+        },
+        {
+            "type": "java",
+            "name": "Launch isUnique",
+            "request": "launch",
+            "mainClass": "isUnique",
+            "projectName": "CrackingTheCodingInterview-JavaQuestionsTemplate_1a412de1"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkPermutations",
+            "request": "launch",
+            "mainClass": "checkPermutations",
+            "projectName": "CrackingTheCodingInterview-JavaQuestionsTemplate_1a412de1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - test",
             "request": "launch",
             "mainClass": "test"
