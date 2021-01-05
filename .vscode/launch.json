@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RemoveDups",
+            "request": "launch",
+            "mainClass": "RemoveDups",
+            "projectName": "CrackingTheCodingInterview-JavaQuestionsTemplate_1a412de1"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringRotation",
+            "request": "launch",
+            "mainClass": "StringRotation",
+            "projectName": "CrackingTheCodingInterview-JavaQuestionsTemplate_1a412de1"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringCompression",
+            "request": "launch",
+            "mainClass": "StringCompression",
+            "projectName": "CrackingTheCodingInterview-JavaQuestionsTemplate_1a412de1"
+        },
+        {
+            "type": "java",
+            "name": "Launch OneAway",
+            "request": "launch",
+            "mainClass": "OneAway",
+            "projectName": "CrackingTheCodingInterview-JavaQuestionsTemplate_1a412de1"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromePermutation",
+            "request": "launch",
+            "mainClass": "PalindromePermutation",
+            "projectName": "CrackingTheCodingInterview-JavaQuestionsTemplate_1a412de1"
+        },
+        {
+            "type": "java",
             "name": "Launch URLify",
             "request": "launch",
             "mainClass": "URLify",

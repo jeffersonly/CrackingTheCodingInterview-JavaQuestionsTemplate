@@ -4,3 +4,12 @@
 // its entire row and column are set to O.
 
 // Hints: #17, #74, #102
+public class ZeroMatrix {
+    public static void convertMatrix(int[][] matrix) {
+
+    }
+
+    public static void main(String[] args) {
+        
+    }
+}

@@ -6,3 +6,12 @@
 // can you do this in place?
 
 // Hints: #51, #100
+public class RotateMatrix {
+    public static void rotateMatrix(int[][] matrix) {
+
+    }
+    
+    public static void main(String[] args) {
+
+    }
+}

@@ -5,3 +5,13 @@
 // allowed?
 
 // Hints: #9, #40
+import java.util.*;
+public class RemoveDups {
+    public static void removeDups(LinkedList<Integer> list) {
+        
+    }
+
+    public static void main(String[] args) {
+         
+    }
+}

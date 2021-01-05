@@ -3,6 +3,9 @@
 ## Progess
 On Page: 91
 
+Skipped Problems:
+Chapter 1 - Arrays and Strings: #7, #8
+
 ## Notes
 ### Big O
 O(log x) < O(x) < O(x log x) < O(x^2) < O(2^x) < O(x!) 
